@@ -11,7 +11,6 @@
 
   <body>
     <div class="login-form">
-      <h6>Sign Up</h6>
 
       <form action="">
         <div class="textbox">
